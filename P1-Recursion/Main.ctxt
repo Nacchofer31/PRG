@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=n
+comment1.target=int\ factorial(int)
+comment1.text=\ n>\=0\r\n
+comment10.params=a\ d
+comment10.target=boolean\ esProgAritmetica(int[],\ int)
+comment10.text=\r\n\ Ej\ 3\r\n
+comment11.params=a\ d\ c
+comment11.target=boolean\ esProgAritmetica(int[],\ int,\ int)
+comment2.params=a\ n
+comment2.target=double\ potencia(double,\ int)
+comment2.text=\ n>\=0\ y\ a\!\=0\ \r\n
+comment3.params=a\ b
+comment3.target=int\ resto(int,\ int)
+comment3.text=\ a>\=0\ y\ b>0\r\n
+comment4.params=a\ b
+comment4.target=int\ mcd(int,\ int)
+comment4.text=\ a>0\ y\ b>0\ \r\n
+comment5.params=a\ b
+comment5.target=int\ euclides(int,\ int)
+comment5.text=\ a>0\ y\ b>0\r\n
+comment6.params=n
+comment6.target=java.lang.String\ invertir_digitos(int)
+comment7.params=n
+comment7.target=java.lang.String\ lineaNum(int)
+comment7.text=\r\n\ Ej\ 1\r\n
+comment8.params=a1\ r\ n
+comment8.target=int[]\ creaProgGeometrica(int,\ int,\ int)
+comment8.text=\r\n\ Ej\ 2\r\n
+comment9.params=a\ a1\ r\ n
+comment9.target=void\ creaProgGeometrica(int[],\ int,\ int,\ int)
+numComments=12
